@@ -26,3 +26,5 @@ admin_username            =  "<your admin name>"
 owner         = "<call yourself whatever you want"
 source_change = "terraform"
 ```
+
+The Output will give you the PIP of the VNET Gateway and the Private IP of the Linux Host to test on in Azure from your onprem network. 
