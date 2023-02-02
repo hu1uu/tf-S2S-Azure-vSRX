@@ -1,2 +1,2 @@
 # tf-S2S-Azure-vSRX
-Terraform Code for Azure Deployment of S2S VPN with vSRX
+Resources for creating a Site-to-Site IPsec VPN between Azure tenant and vSRX
